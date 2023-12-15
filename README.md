@@ -22,3 +22,4 @@ O propósito deste projeto é criar uma simulação de phishing para fins educac
 - Template: `Google`
 
 ## Resultados
+![Resultado](https://github.com/Jsallez/Phishing-para-captura-de-senhas-do-Google/assets/138527084/1b2a7d97-e2b2-4995-9ab1-1223d94fcc92)
